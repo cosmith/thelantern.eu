@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: article
 title: Quels commencements ?
 date: 2014-08-19T15:04:10.000Z
 author: Martin Dumont
