@@ -8,7 +8,6 @@ import HTMLContent from "../components/HTMLContent";
 
 const Article = ({data}) => {
     const post = data.markdownRemark;
-    const disqusShortname = "the-lantern";
     const disqusConfig = {
         identifier: post.wordpressid || post.id,
         title: post.frontmatter.title,
@@ -43,7 +42,7 @@ const Article = ({data}) => {
                                 </div>
                             ) : null}
 
-                            <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+                            <DiscussionEmbed shortname={"the-lantern"} config={disqusConfig} />
                         </div>
                     </div>
                 </div>

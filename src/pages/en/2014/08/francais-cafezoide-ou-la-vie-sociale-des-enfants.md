@@ -1,0 +1,27 @@
+---
+templateKey: article
+title: "Cafézoide or the social life of children"
+date: 2014-08-21
+author: Pauline Jouvet
+language: en
+wordpressid: 36
+topic: Experiences
+tags:
+    - featured
+---
+
+What if children and teenagers had their own social space, outside school and family, to meet each other, express themselves, create and build projects? A place which belonged to them and where their voices would be listened to and their dreams would be considered? Anne-Marie was 12 when this idea began to grow in her mind. As a “pied-noire” (Algerian-born French), she experienced the violence of theAlgerian war and upheaval at the age of six. The new world she discovered when she got to the French department of Maine-et-Loire was too narrow for her childhood dreams. School and family environments left little room for her creativity and desirefor freedom. When she was twelve, she and her friends were called “fuguettes” (“runaways”). That was when she imagined a social space that would welcome children and teenagers. A café where their reflections about the world would find an echo and where their projects would be encouraged. More than 30 years later, Anne-Marie’s dream became reality as a collective project. It happened thanks to a renter’s association determined to fight to get a space from the city of Paris, and thanks to friends who were ready to invest in this project because they were eager for social change. This adventure began in 1999, with the legalcreation of an association under French Law. On August 1st 2002, Cafézoïde opened its doors in Paris.
+
+On the banks of the Bassin de la Villette, Cafézoïde calls to passers-by with its mosaics full of vibrant colors. The fragrance of mint tea, joyful shouts of children and a piano melody welcome visitors. The youngest, accompanied bytheir parents or nannies, join Marie-Stella around her piano where she awakens them to music with songs from all over the world, teenagers hang out around the “bar ado” (“teen bar”), baby-foot and computers, some enjoy the creative space painting a poster for the next cultural event of the café or for their next presentation at school. Cafézoïde, which means “life” café in Greek, is a privileged place for children and teenagers seeking freedom. “It’s ‘their’ café!” says Anne-Marie, while showing me pictures where teenagers stand behind the bar to serve cakes. To the question, “is the café as you imagined when you were twelve?” Anne-Marie answers, “fifty percent. It will when children will manage it entirely. Actually, they are already convinced. But adults are the one who need more time to believe it.”
+
+Everyday at 3:15pm, the “Assembly of the Present” takes place. It’s a time when all children and teenagers who are present in the café share their ideas of how to keep the café alive, when they debate and make decisions. At the moment, they are organizing “la rue aux enfants” (“Kids’ street”). “Ce n’est pas nous qui sommes à la rue, c’est la rue qui est à nous” (“We don’t belong to the street, the street belongs to us”) is their slogan, taken from a song of the French band La Rue Kétanou. During this event, Cafézoïde invites children to make a public space their own for playing, learning, speaking up, and expressing their creativity. Each year in May, Ourq banks host concerts, a football tournament and a “flea market,” where children create their own booth to sell their old toys and personal creations. In 2014, it was also a the day where they can elect… their own European Parliament!
+
+The Cafézoïde team is deeply convinced that action is better than words at teaching democracy. For the last municipal elections, the children elected a boy and a girl to be Cafézoïde mayors – “because two make better decisions,” they said. Each candidate leads a campaign and presents his or her program. According to Anne-Marie, “We need to get them accustomed to voting to help them to learn citizenship, especially when their parents are foreigners and don’t have the right to vote.” For example, children can learn that the winner of the election is not always the one who built the best program, but the one who brings the most friends. The elected mayors are then responsible to implement their program if they want to keep electorate favor. How could we make the stage larger for dance shows? How could we organize a pajama party for girls? The Assembly of the Present is an effervescent place where everybody brings his or her ideas to bring the mayor’s suggestions to life.
+
+So, the children are convinced. But what about the adults? That may be the only hiccup in this adventure. To remain accessible and to promote social diversity, Cafézoïde keeps its prices low and sometimes welcome people with financial difficulties for free. Thus it needs to convince donors. Its meager revenues and public subsidies are not sufficient anymore. To keep all the employees and this culture of generosity, Anne-Marie decided to be a volunteer for the café and to work part-time elsewhere. She’s ready to pay the price to see her dream come true.
+
+Though some white hairs appear in her hair, Anne-Marie isn’t done. Her next project? A collective building to allow people from different generations and social background to meet and live side by side. “ If there was a room for each homeless person in Paris, there will be no more homeless people in France.” A dream? Maybe, but this courageous woman makes us want to believe it.
+
+&nbsp;
+
+&nbsp;
