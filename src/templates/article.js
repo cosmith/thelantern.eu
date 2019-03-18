@@ -8,8 +8,11 @@ import HTMLContent from "../components/HTMLContent";
 
 const Article = ({data}) => {
     const post = data.markdownRemark;
+    const wpId = post.frontmatter.wordpressid;
+    const disqusId = wpId ? `${wpId} http://thelantern.eu/?p=${wpId}` : post.id;
+
     const disqusConfig = {
-        identifier: post.wordpressid || post.id,
+        identifier: disqusId,
         title: post.frontmatter.title,
     };
     const tags = post.frontmatter.tags;
@@ -63,6 +66,7 @@ export const pageQuery = graphql`
             frontmatter {
                 date(formatString: "MMMM DD, YYYY")
                 title
+                wordpressid
                 tags
                 author
             }
