@@ -31,12 +31,6 @@ Pour continuer l’analogie avec la fable de La Fontaine, il me semble qu’il f
 
 On s’attendait à de nouveaux attentats. Les services de renseignement et le hasard providentiel en ont empêché plusieurs ces derniers mois, ce qui veut dire que plusieurs étaient en préparation, et qu’il y en aurait bien un qui finirait par fonctionner. Le groupe « Etat Islamique » continue d’appeler ses partisans à instaurer la terreur en Europe. Il existe un marché noir d’armes de guerre. Des cellules terroristes dorment dans plusieurs grandes villes. Et selon l’ancien juge anti-terroriste Marc Trévidic, le groupe « Etat Islamique » a tellement de volontaires qu’il ne craint pas d’en sacrifier dans des attentats ratés ou réussis.<a href="#_ftn3" name="_ftnref3">[3]</a> On pouvait donc s’attendre à des attaques, et on peut continuer de s’y attendre. Nous sommes donc dans une sorte de guerre, même si nous ne l’avons pas choisie, et même si cette guerre n’est pas une guerre entre deux Etats, ni une guerre entre civilisations, ni une guerre entre religions. Elle est une sorte de guerre entre le pluralisme des sociétés contemporaines d’un côté et une secte de l’Islam de l’autre. Pour la mener, il nous faut comprendre les ressorts qui animent cette secte, et nous placer dans une géopolitique globale dans laquelle les grandes puissances ont des responsabilités essentielles.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 <a href="#_ftnref1" name="_ftn1">[1]</a>http://www.dailymotion.com/video/x26sp1d_de-villepin-a-propos-de-l-etat-islamique-6-minutes-d-intelligence-et-de-lucidite_webcam
 
 <a href="#_ftnref2" name="_ftn2">[2]</a>http://thelantern.eu/fr/2015/04/guerre-et-terrorisme/

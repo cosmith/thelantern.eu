@@ -147,8 +147,6 @@ Aussi est-il regrettable que les débats de fond sur ces mouvements dérivent si
 
 Ainsi peut-on souhaiter que les mouvements de l’écologie profonde et du transhumanisme se rencontrent pour se féconder mutuellement. On en trouve une esquisse dans de nombreuses innovations récentes telles que les énergies vertes, les low tech ou les villes intelligentes… Ces innovations sont issues d’études poussées en agroéconomie et ingénierie, et elles renforcent en même temps la responsabilité écologique. De nombreux bureaux d’architectes et d’urbanistes développent aujourd’hui des projets de villes vertes, 0 déchet ou empreinte carbone 0. Toutes emploient le numérique pour modéliser et administrer leurs projets. La cybernétisation de l’humain peut être elle aussi repensée dans les limites du respect de l’environnement et de sa non-nocivité pour les personnes. Enfin, il semble nécessaire d’élaborer à nouveaux frais un cadre juridique démocratique, souple, mais vigilant, qui permette à la fois de continuer certaines expérimentations, et d’éviter des dommages potentiels irréversibles, tant pour les personnes, que pour la planète.
 
-&nbsp;
-
 <a href="#_ftnref1" name="_ftn1">[1]</a> Par exemple, pour accéder en Français aux œuvres qui ont fait connaître leurs auteurs, il aura fallu attendre 26 ans pour C. Gilligan, pionnière du « Care », 30 ans pour T. Regan et les <em>Droits des animaux,</em> ou 39 ans pour Popper et la <em>Logique de la découverte scientifique</em>…
 
 <a href="#_ftnref2" name="_ftn2">[2]</a> Cf parmi les spécialistes incontestables du catastrophisme : L. Ferry, JM Besnier, E. Sadin, M. Benasayag

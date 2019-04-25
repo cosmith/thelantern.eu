@@ -26,4 +26,4 @@ Faut-il dès lors commencer par la fin concrète ? Partir du résultat, du savo
 
 Ce ne serait pas dans la récapitulation, mais dans la répétition que la pensée se frayerait un passage depuis ce qui une fois a commencé vers un nouveau commencement. Répéter le commencement, c’est-à-dire reprendre de façon nouvelle l’ancien, lui redonner la vigueur de l’avenir.
 
-&nbsp;
+ 

@@ -15,13 +15,9 @@ La guerre</strong>
 
 Nous lisons des articles et visionnons des images sur de nombreux conflits aussi complexes que divers, jusqu'à en perdre un peu la tête. Face à ce qui nous est rapporté d'Irak, de Syrie, d'Ukraine, de Centrafrique, d'Israël et de Palestine, de Lybie, du Mali, nous sommes comme déboussolés, à la fois horrifiés et un peu ahuris. Le monde est en feu et qu'y comprenons-nous? Nous sommes parfois tentés de refouler dans l'indifférence des conflits trop étranges et apparemment lointains. Ou bien au contraire nous pouvons nous livrer à la colère, vouloir réagir vite en distinguant des méchants et des gentils à l'aide de grilles de pensées toutes prêtes. Nous voudrions plutôt essayer de penser ce qui se passe, sans céder à une dénonciation trop facile, et sans perdre pour autant l'empathie.
 
-&nbsp;
-
 <strong>L'école</strong>
 
 L'école est ce lieu hors de la société, presque intemporel, où l'on sent pourtant que la société future est en germe, et où la société actuelle se reflète également. Pour l'enfant elle est un lieu où il demeure, y passant beaucoup de temps dans la société de ses semblables et sous l'oeil des éducateurs, mais il ne fera aussi qu'y passer même s'il s'en souviendra toujours. Que faut-il alors attendre de l'école? La question de l'éducation, comme le montrait déjà l'accusation de Socrate de corrompre la jeunesse, ne laisse personne indifférent. Comment peut-on dans notre société, dans nos communautés, discuter de l'école? Beaucoup des contributeurs de ce blog sont de près ou de loin enseignants, éducateurs. Comment peut-on au sein de l'école, mais aussi en dehors, faire croître sereinement une liberté, une créativité, en protégeant l'enfant des modes mais en le rendant capable de contribuer à la vie collective? Comment former à la fois l'homme et le citoyen, selon la double exigence que nous a laissé Rousseau? Des expériences peuvent venir nous éclairer, décrire les tensions propres à l'éducation, dessiner des voies prometteuses.
-
-&nbsp;
 
 <strong>La reconnaissance</strong>
 

@@ -31,20 +31,6 @@ Polanyi décrit la tentative du 19ème siècle, à partir de l'Angleterre en par
 
 Comme l'écrit Lévinas, « on doit se demander si le libéralisme suffit à la dignité authentique du sujet humain ». Les valeurs européennes – individualisme, liberté, démocratie, droits de l’homme, universalité – méritent d’être défendues mais également d’être complétées par ce dont elles ne sauraient se passer sans mourir – la responsabilité pour autrui, un certain enracinement de l’esprit dans le corps, l’hétéronomie dans laquelle se forge toute liberté authentique. L’incomplétude du libéralisme classique appelle d’une certaine manière des réactions, à savoir la survalorisation de l’enracinement contre l’universel, du corps contre l’esprit, de l’instinct contre la raison, de la race contre la citoyenneté, de la violence contre les droits de l’homme<a href="#sdfootnote1sym"><sup>1</sup></a>. Quant au libéralisme économique, ses absurdités conceptuelles en font un danger pour la société. La marchandisation de l’homme, de la terre, et de l’argent conduit au développement de la pauvreté à l’intérieur même des nations riches, à l’accaparement de la nature pour des fins de commerce, et à des emballements perpétuels de la finance ouvrant la possibilité de crises systémiques. Par ailleurs, la définition de l’homme comme individu cupide a peu à peu l’effet d’une prophétie : si on la défend et qu’on construit des institutions qui lui correspondent, elle peut bien rendre les hommes tels qu’elle les décrit<a href="#sdfootnote2sym"><sup>2</sup></a>. Elle n’a pourtant rien de naturel. Pour corriger l'anthropologie libérale, l'idole de Karl Polanyi semble être Robert Owen, un des précurseurs du socialisme, dont une des thèses principales consiste à dire : <em>la société existe</em>, nous ne sommes pas des individus atomisés, nous sommes aussi déterminés par nos conditions d’existence, arrêtons donc de croire de manière excessive à la responsabilité individuelle. L’habit fait le moine, on devient aussi ce que le milieu dans lequel on vit fait de nous. La liberté ne consiste pas à s’autodéterminer individuellement, mais éventuellement à définir de bonnes structures collectives d’existence, c’est-à-dire à faire de la bonne politique plutôt qu’à laisser l’économie nous tenir lieu de politique. Il importe donc de corriger sérieusement le libéralisme, notamment pour pouvoir en garder le meilleur, et l'alternative est la suivante : ou bien les lois sociales, la régulation financière, la protection sérieuse de l’environnement, la reconstruction du commun, ou bien l'accaparement d’une société dissolue par les violents.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 <a href="#sdfootnote1anc">1</a>Voir par exemple le succès d’Alain Soral ou de Raptor dissident.
 
 <a href="#sdfootnote2anc">2</a>Un article récent accusait les écoles de commerce de transformer de jeunes idéalistes en individualistes avides de profit : https://www.theguardian.com/news/2018/apr/27/bulldoze-the-business-school
-
-&nbsp;

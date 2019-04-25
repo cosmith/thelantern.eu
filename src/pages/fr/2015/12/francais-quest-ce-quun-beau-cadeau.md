@@ -61,16 +61,6 @@ Ce moment suspendu à l'approbation d'autrui et au fond à sa reconnaissance dé
 
 En somme, le don, lorsqu'il est pensé, constitue véritablement un geste dans lequel nous nous exposons. Si le choix du présent révèle notre vision de l'autre et témoigne de notre attachement, la réception de celui-ci reflète tout autant la teneur de la relation. La déception comme la satisfaction sont doubles. Le donateur engage sa prescience et offre une preuve d'attachement, le donataire, s'il est conforté dans son identité et dans sa vision de la relation, renvoie sa gratitude et son affection. Mais dans les deux cas, il est question de reconnaissance.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 <a href="#_ftnref1" name="_ftn1">[1]</a>« Le cadeau amoureux se cherche, se choisit et s'achète dans la plus grande excitation - excitation telle qu'elle semble être de l'ordre de la jouissance. Je suppute activement si cet objet fera plaisir, s'il ne décevra pas, ou si, au contraire, paraissant trop important, il ne dénoncera pas lui-même le délire - ou le leurre dans lequel je suis pris. » F<em>ragments d'un discours amoureux,</em> « Dédicace », Seuil, 1977.
 
 <a href="#_ftnref2" name="_ftn2">[2]</a>« Essai sur le don. Forme et raison de l'échange dans les sociétés primitives », II,<em> Sociologie et anthropologie,</em> Marcel Mauss. Paris, Puf, 2006.
-
-&nbsp;

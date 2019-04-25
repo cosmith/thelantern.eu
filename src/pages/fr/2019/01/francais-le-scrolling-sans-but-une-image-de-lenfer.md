@@ -18,13 +18,7 @@ tags:
 
 Quand j’étais petit, j’avais une gerbille. Ce nom délicat ne désigne pas la galette qu’on pose lorsque, pour une raison ou une autre, notre estomac souhaite se débarrasser d’une partie de son contenu, mais plutôt un mignon petit hamster, dont voici le portrait d’un congénère glané sur l’internet.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":1275} -->
-<figure class="wp-block-image"><img class="wp-image-1275" src="http://thelantern.eu/wp-content/uploads/2019/01/gerbille-1.jpg" alt="" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
+![gerbille](/img/wp-uploads/2019/01/gerbille-1.jpg)
 
 Cette gerbille, à laquelle nous avions attribué un petit nom que je n’ai malheureusement plus en mémoire, vivait dans une cage, triste sort, à l’intérieur de laquelle avait été installée, ô joie, une « roue d’exercice ». Elle était particulièrement légère et silencieuse, dotée d’un plan de course solide avec renforts latéraux antidérapants, ainsi que d’un support sécurisé et d’un fond fermé évitant à l’animal de rester bloqué. Elle existait en diverses couleurs et moi et mes <em>siblings</em> avions choisi le rouge. La gerbille courait dans sa roue à l’infini sans aller nulle part. Je me demandais parfois ce qui lui viendrait à l’esprit si elle se trouvait avoir l’occasion de se voir elle-même de l’extérieur. Il me semblait que cela donnerait quelque chose comme : « Mon Dieu qu’est-ce que je suis conne, atteindre un tel niveau de connerie tient du prodige. » Et aussi : « On m’a trompé. » On me répondait : « Si ça lui plaît, c’est bien. »
 
@@ -49,12 +43,15 @@ J’accuse. Nous-mêmes et les géants du web. Et j’en appelle à Blaise Pasca
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1276} -->
-<figure class="wp-block-image"><img class="wp-image-1276" src="http://thelantern.eu/wp-content/uploads/2019/01/pascal-1.jpg" alt="" /></figure>
+
+![](/img/wp-uploads/2019/01/pascal-1.jpg)</figure>
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 
 Cet « effrayant génie » nous a livré de profondes méditations sur l’ennui, à partir d’un constat simple : nous ne supportons pas de rester seul et sans occupation longtemps. Pourquoi ? Parce que nous nous sentons vide. Les chômeurs longue durée, les célibataires qui ne l’ont pas choisi, les prisonniers et tous ceux qui manquent d’amis sont au courant : l’inactivité et la solitude sont désespérantes, elles nous font perdre toute confiance en nous-mêmes, elles nous rendent tristes. Pour ne pas ressentir ce vide, on fuit dans toutes sortes d’activités, que Pascal réunit sous un seul mot : divertissement. On part à la chasse, on prend des verres en terrasse, on met toute son énergie à fonder une petite entreprise, on fait des recherches sur les ours polaires, on s’entraîne dans un sport, on cherche des amourettes, on milite dans un parti. Tout cela : du divertissement. De l’occupation pour ne pas rester seul face à son vide. Du détournement de l’ennui premier. Que cherche-t-on ? Un : quelque chose sur quoi fixer notre esprit pour qu’il ne se perde pas dans des idées noires. Deux : de la reconnaissance, que les autres voient à quel point notre vie est intéressante, utile, ou stylée, pour que nous puissions dans leur regard nous aimer nous-mêmes.
+
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -72,10 +69,6 @@ Le scrolleur de deux heures du matin attend. Il sent son vide et espère que que
 <!-- wp:paragraph -->
 
 L’ennui n’est pas un état particulièrement désirable. Mais le <em>passage</em> par l’ennui est de haute nécessité. Faire face à son vide, traverser le silence, ne serait-ce que temporairement, de temps en temps, est une condition de base de la lucidité et de la créativité. Ô quitter notre esclavage, ô faire un grand silence.
-
-&nbsp;
-
-&nbsp;
 
 <!-- /wp:paragraph -->
 

@@ -30,7 +30,7 @@ Il y a plus : le commencement que nous désirons, sa beauté même et la respons
 
 Il y a alors bien des pièges dans la pensée du commencement qui, en en exagérant la portée, ou en la situant mal, nous empêchent de vraiment commencer…
 
-<a href="http://thelantern.eu/wp-content/uploads/2015/02/Piris_reis_1513-e1422791984517.jpg"><img class="alignnone size-full wp-image-405" src="http://thelantern.eu/wp-content/uploads/2015/02/Piris_reis_1513-e1422791984517.jpg" alt="Piris_reis_1513" width="601" height="460" data-wp-pid="405" /></a>
+![](/img/wp-uploads/2015/02/Piris_reis_1513-e1422791984517.jpg)
 
 II.
 
@@ -46,7 +46,7 @@ Si le commencement doit contenir toute sa suite, qui n’en serait que le dével
 
 Mais si les débuts ne sont pas si importants pour commencer, c’est bien un deuxième écueil qui se présente à nous !
 
-<a href="http://thelantern.eu/wp-content/uploads/2015/02/bol2.jpg"><img class="alignnone size-full wp-image-416" src="http://thelantern.eu/wp-content/uploads/2015/02/bol2.jpg" alt="bol2" width="800" height="503" data-wp-pid="416" /></a>
+![](/img/wp-uploads/2015/02/bol2.jpg)
 
 III.
 
@@ -62,7 +62,7 @@ Il peut se loger dans cette impatience du résultat, et cette multiplication de 
 
 Comment alors vraiment commencer ? Il faut pour cela assumer d’autres paradoxes qui, loin d’entraver le commencement, le constituent bien plutôt.
 
-<a href="http://thelantern.eu/wp-content/uploads/2015/02/62_victorn-003.jpg"><img class="alignnone size-full wp-image-412" src="http://thelantern.eu/wp-content/uploads/2015/02/62_victorn-003.jpg" alt="62_victorn-003" width="1000" height="390" data-wp-pid="412" /></a>
+![](/img/wp-uploads/2015/02/62_victorn-003.jpg)
 
 IV.
 

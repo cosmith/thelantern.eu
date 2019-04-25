@@ -20,4 +20,4 @@ Meek people are needed to combat violence. True meek individuals who are aware o
 
 <em>Translated to english by Amy Clarke</em>
 
-&nbsp;
+ 

@@ -20,8 +20,6 @@ tags:
 
 <u>Chimamanda Ngozi ADICHIE, <em>Half of a Yellow Sun</em></u>
 
-&nbsp;
-
 « The world was silent silent when we died. »
 
 It is a story of love and war, of life and sex and death and courage and striving and learning and losing and winning. It is a story so powerful that it could finally araise the Western world's consciousness about its own silence, its own indifference to hunger and desperation and the brave fight for an impossible independence.

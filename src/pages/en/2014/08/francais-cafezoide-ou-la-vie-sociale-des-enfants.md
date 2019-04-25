@@ -22,6 +22,6 @@ So, the children are convinced. But what about the adults? That may be the only 
 
 Though some white hairs appear in her hair, Anne-Marie isn’t done. Her next project? A collective building to allow people from different generations and social background to meet and live side by side. “ If there was a room for each homeless person in Paris, there will be no more homeless people in France.” A dream? Maybe, but this courageous woman makes us want to believe it.
 
-&nbsp;
+ 
 
-&nbsp;
+ 

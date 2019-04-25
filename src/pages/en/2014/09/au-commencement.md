@@ -26,6 +26,4 @@ Unless the thought deliberately delays its beginning, and by doing so, consents 
 
 It's only through repetition and no recapitulation that the thought can create a path towards a new beginning. Repeating the beginning, or improving the told in new ways, gives it the vigour of the future.
 
-&nbsp;
-
 <em>Translated to english by Amy Clarke</em>

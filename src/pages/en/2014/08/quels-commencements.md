@@ -30,7 +30,6 @@ However, even if that’s essential too, it can’t be only about working for th
 
 The renewal task must then be beforehand to pay attention, in a delicately reflexive manner, to the promises carried by our time. It will be about pointing out the opportunities, the beautiful achievements that are just starting, arising from our historical situation and our designs. Of course, the risk would be that overly highlighting those seeds could freeze, objectify or rigidify them. Truly shedding light on them can only be simultaneously guiding, seizing and giving each other a taste of them to improve them. Only then will those motives of hope, those designs in the making be able to feed us and enable us to feed them in return. But again, such hopes can't be exultantly shouted on rooftops without being altered; a thoughtful care will be needed; as well as some silence unveiling the mystery of the start without fully driving it out, because "the only thing helping hope (...) is an inflexible discretion. (...) He who really nurtures hopes, let him also bury them as deeply as he possibly can, as they'll only be rewarding as silent strengths; this is the only way to avoid them mixing with causal successions, thus leading to tragedies; the only way to avoid them contributing to mobilisations undertaken in bad faith; the only way for them to become the vital strengths acting behind people's backs and carrying them over the abysses above which the diurnal worlds are erected." (Peter Sloterdijk, <em>Eurotaoïsmus</em>)
 
-&nbsp;
-
 <em>Translated to english by Magali Hamilton Smith</em>
-<p style="text-align: right;"><em>Silkscreen printing by Grisor.</em></p>
+
+<p style="text-align: right;"><em>Silkscreen printing by Grisor.</em>

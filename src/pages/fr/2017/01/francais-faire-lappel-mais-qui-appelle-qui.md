@@ -12,21 +12,15 @@ tags:
     - featured
 ---
 
-<p style="text-align: right;">« Leur existence même est un appel. »</p>
-<p style="text-align: right;">Marguerite Léna</p>
+<p style="text-align: right;">« Leur existence même est un appel. »
+<p style="text-align: right;">Marguerite Léna
 Le jour de la rentrée, nous (les professeurs) avons franchi le seuil de la classe et sommes montés sur l’estrade. Devant nous, une trentaine d’élèves s’agitaient, et peu à peu se sont tus, se tenant debout derrière leur bureau. Puis ils se sont assis et nous avons fait l’appel. Pourquoi ?
 
 Oui, pourquoi commençons-nous l’année par faire l’appel ? Par cette pratique qui consiste à appeler chaque élève, selon l’ordre alphabétique des noms de famille, attendant un signe ou un mot de sa part ? Est-ce, par exemple, pour identifier les jeunes que nous avons devant nous, pour « mettre un nom sur un visage » (ou l’inverse) ? Certes, au début de l’année, il faut très vite apprendre à reconnaître chaque élève, le «connaître par son nom ». Mais si c’était la seule raison, nous ne referions pas l’appel à chaque début de cours, ou presque, toute l’année.
 
 En effet, nous faisons l’appel à chaque début de cours. C’est, du moins, ce qui nous est demandé de faire. Pour ce qui me concerne, je ne fais pas formellement l’appel des noms. Je suis là pour accueillir mes élèves lorsqu’ils entrent dans la classe et ils se tiennent ensuite debout derrière leur bureau. J’attends, je repère qui est là, qui est absent, je regarde les élèves, manière de me rentre présent à eux et de leur laisser le temps de se rendre présents à ce qui va avoir lieu. Je dis « Bonjour » lorsque les corps ont cessé de s’agiter, ils me répondent « Bonjour » ; je dis « Asseyez-vous » et le cours commence : je demande à un élève où nous en étions resté la fois précédente, je parle, ils prennent des notes, posent des questions. En terminale littéraire, à Oullins, un surveillant vient chercher un petit bout de papier prévu à cet effet où doit être inscrit la classe, la date, l’heure du cours, les élèves absents, les élèves en retard, le nom du professeur, qui signe enfin. Ce papier peut être déposé à l’extérieur de la salle dans une pochette prévue à cet effet afin que celui qui les collecte ne dérange pas le cours. Comme j’oublie souvent de le remplir, celui qui les collecte frappe, j’ouvre, « Bonjour », « Ah oui, les absents ! », le petit bout de papier à remplir, « Bonne journée ! », et le cours reprend. Parfois c’est un élève que le remplit pour moi, je signe, et le cours ne s’interrompt pas.
 
-<a href="http://thelantern.eu/wp-content/uploads/2017/01/211343.jpg"><img class="alignnone size-full wp-image-1055" src="http://thelantern.eu/wp-content/uploads/2017/01/211343.jpg" alt="" width="758" height="582" data-wp-pid="1055" /></a>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+![](/img/wp-uploads/2017/01/211343.jpg)
 
 Pourquoi faire l’appel ? Est-ce pour contrôler qui est présent et qui ne l’est pas ? Certes. Faire l’appel, c’est exercer une fonction de contrôle. L’école est une institution qui exerce un contrôle sur des corps et des esprits pour les dresser : apprendre à ne pas parler sans lever la main, se tenir droit, s’habiller correctement. La « discipline » : mot qui désigne à la fois une matière enseignée et une manière de se tenir ; les deux allant de pair : parce que je me tiens droit, parce que je contrôle mon corps et ses pulsions, parce que j’ai acquis une capacité à faire attention, je peux apprendre un savoir et exercer mon intelligence. Certes, faire l’appel permet d’exercer une fonction de contrôle, mais est-ce là son sens le plus essentiel ?
 
@@ -45,4 +39,5 @@ On entend parfois que professeur est « une vocation » ou bien, à l’inverse,
 Récemment, dans une classe, je disais devant des élèves que, pour une activité pour laquelle il n’y a que peu de places, « seuls les meilleurs viendront ». Une élève m’a alors répondu spontanément : « Alors ce ne sera pas moi. » J’ai été surpris. Je n’ai pas compris d’abord. Et elle me rappelle qu’elle « n’a pas de bons résultats ». J’ai eu quelques secondes pour lui dire que ce n’est pas de cela qu’il s’agit, que les « meilleurs », puisque c’est le mot qui m’était venu à l’esprit (ce mot était mal choisi sans doute), ne sont pas nécessairement les « très bons élèves », mais plus sûrement ceux qui manifestent le plus de désir. Désir d’être là, désir d’apprendre, désir de comprendre, désir de se transformer, désir de s’humaniser. Les professeurs ne « préfèrent » pas uniquement les élèves les plus brillants, même si c’est très gratifiant, et le souci et l’attention qu’ils portent à leurs élèves n’est pas une question d’ordre psychologique. Bien sûr, il y a des sympathies, des affinités, surtout lorsque les élèves deviennent presque des adultes, en terminale, ce serait mentir de se le cacher. Mais l’essentiel n’est pas là. Il est dans le souci de tous les élèves, dans le soin porté à des êtres jeunes auxquels doivent être transmis le monde, la vie et l’espérance.
 
 Je ne peux donc faire l’appel que parce que j’ai d’abord été appelé. « A moins de cesser de croire et d’aimer au point de ne plus transmettre la vie, nous n’avons pas le choix : il y a des enfants et des jeunes, leur existence même est un appel. »
-<p style="text-align: right;">Illustration : <em>La Pensée</em>, Auguste Rodin (musée d'Orsay).</p>
+
+<p style="text-align: right;">Illustration : <em>La Pensée</em>, Auguste Rodin (musée d'Orsay).
