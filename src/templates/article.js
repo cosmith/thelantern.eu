@@ -28,9 +28,11 @@ const Article = ({data}) => {
                     <div className="columns">
                         <div className="column is-10 is-offset-1">
                             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                                {post.title}
+                                {post.frontmatter.title}
                             </h1>
-                            <p>By {post.frontmatter.author}</p>
+                            <p>
+                                Posté le {post.frontmatter.date} par {post.frontmatter.author}
+                            </p>
                             <HTMLContent content={post.html} />
                             {tags && tags.length ? (
                                 <div style={{marginTop: `4rem`}}>
@@ -50,7 +52,6 @@ const Article = ({data}) => {
                     </div>
                 </div>
             </section>
-            );
         </Layout>
     );
 };
@@ -64,7 +65,7 @@ export const pageQuery = graphql`
             html
             excerpt(pruneLength: 400)
             frontmatter {
-                date(formatString: "MMMM DD, YYYY")
+                date(formatString: "DD/MM/YYYY")
                 title
                 wordpressid
                 tags
